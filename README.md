@@ -16,4 +16,4 @@ A simple Rock-Paper-Scissors game made with Python.
 3. Run:
 
 ```bash
-python rock_paper_scissors.py
+prawwal.py
